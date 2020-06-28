@@ -1,11 +1,11 @@
 <!--
  * @Author: Neil.Yao
  * @Date: 2020-06-28 14:55:19
- * @LastEditTime: 2020-06-28 15:07:43
+ * @LastEditTime: 2020-06-28 15:08:48
  * @Description: 
  * @FilePath: /clear-cat-food/README.md
 --> 
-## 猫粮项目 - 前端脚手架
+## 前端脚手架
 Project development template (React)
 
 ### 使用说明
